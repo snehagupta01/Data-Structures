@@ -13,10 +13,10 @@
 1. The maximum number of nodes at level ‘l’ of a binary tree is 2^(l-1).
 2. Maximum number of nodes in a binary tree of height ‘h’ is 2^(h) – 1.
 ### Tree traversals:
-1. dft:
+1. Depth First Traversal:
 - inorder
 - preorder
 - postorder
-2. bft:
+2. Breadth First Traversal:
 - level order traversal
 ## Time complexity for all the above traversal-o(n)
