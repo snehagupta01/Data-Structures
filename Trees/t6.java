@@ -24,15 +24,17 @@ public class t6 {
 		TreeNode curr=root;
 		while(curr!=null||s.size()>0)
 		{
-			while(curr!=null)
+			if(curr!=null)
 			{
 				System.out.print(curr.data+" ");
 				s.push(curr);
 				curr=curr.left;
 			}
-			
+			else
+			{
 				curr=s.pop();
 				curr=curr.right;
+			}
 			
 		}
 	}
