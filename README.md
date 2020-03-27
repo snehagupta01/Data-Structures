@@ -10,8 +10,8 @@
 
 * Binary tree-A tree whose elements have at most 2 children
 * bt properties:
-1. The maximum number of nodes at level ‘l’ of a binary tree is 2l-1.
-2. Maximum number of nodes in a binary tree of height ‘h’ is 2h – 1.
+1. The maximum number of nodes at level ‘l’ of a binary tree is 2^(l-1).
+2. Maximum number of nodes in a binary tree of height ‘h’ is 2^(h) – 1.
 ### Tree traversals:
 1. dft:
 - inorder
