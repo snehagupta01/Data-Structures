@@ -4,9 +4,8 @@
 
 * Stack is a linear data structure which allows elements to be inserted as well as deleted only from one end.
 * LIFO data structure i.e last in first out
-* Stack code:
-1) stack implementation using array
-## trees - are hierarchical data structures.
+
+## Trees - are hierarchical data structures.
 
 * Binary tree-A tree whose elements have at most 2 children
 * Binary Tree Properties:
