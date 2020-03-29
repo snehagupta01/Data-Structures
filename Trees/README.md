@@ -5,3 +5,4 @@
   - L = I + 1
   - Where L = Number of leaf nodes, I = Number of internal nodes
 * perfect binary tree - all interior nodes have 2 children and all leaves have same depth/level.
+  - A Perfect Binary Tree of height h has 2^(h) – 1 node.
