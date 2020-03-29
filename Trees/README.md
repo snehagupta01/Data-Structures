@@ -4,3 +4,4 @@
   - In a Full Binary, number of leaf nodes is number of internal nodes plus 1
   - L = I + 1
   - Where L = Number of leaf nodes, I = Number of internal nodes
+* perfect binary tree - all interior nodes have 2 children and all leaves have same depth/level.
