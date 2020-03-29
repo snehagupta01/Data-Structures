@@ -8,3 +8,7 @@
   - A Perfect Binary Tree of height h has 2^(h) – 1 node.
 * balanced binary tree 
   - A binary tree is balanced if the height of the tree is O(Log n) where n is the number of nodes
+
+### Enumeration of binary tree:
+* no of unlabeled trees - (2n)!/(n+1)!n!
+* no of labeled trees - no of unlabeled trees * n! 
