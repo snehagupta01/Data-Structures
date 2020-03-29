@@ -6,3 +6,5 @@
   - Where L = Number of leaf nodes, I = Number of internal nodes
 * perfect binary tree - all interior nodes have 2 children and all leaves have same depth/level.
   - A Perfect Binary Tree of height h has 2^(h) – 1 node.
+* balanced binary tree 
+  - A binary tree is balanced if the height of the tree is O(Log n) where n is the number of nodes
