@@ -30,3 +30,12 @@
 ### Enumeration of binary tree:
 * no of unlabeled trees - (2n)!/(n+1)!n!
 * no of labeled trees - no of unlabeled trees * n! 
+
+### Binary Search Trees :
+* A binary tree will be a binary search tree if:
+```
+The left subtree of a node contains only nodes with keys less than the node’s key.
+The right subtree of a node contains only nodes with keys greater than the node’s key.
+The left and right subtree each must also be a binary search tree.
+There must be no duplicate nodes.
+```
