@@ -7,11 +7,11 @@
 2. Maximum number of nodes in a binary tree of height ‘h’ is 2^(h) – 1.
 ```
 ### Tree traversals:
-1. Depth First Traversal: Space complexity-O(h) h-height
+1. Depth First Traversal: Space complexity-O(h) where h is height of the tree
 - inorder
 - preorder
 - postorder
-2. Breadth First Traversal: Space complexity - O(w) w-width
+2. Breadth First Traversal: Space complexity - O(w) where w is width of the tree
 - level order traversal
  ```
  Time complexity for all the above traversal-o(n)
