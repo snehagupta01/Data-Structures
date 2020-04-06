@@ -8,9 +8,9 @@
 ```
 ### Tree traversals:
 1. Depth First Traversal: Space complexity-O(h) where h is height of the tree
-- inorder
-- preorder
-- postorder
+- Inorder
+- Preorder
+- Postorder
 2. Breadth First Traversal: Space complexity - O(w) where w is width of the tree
 - level order traversal
  ```
